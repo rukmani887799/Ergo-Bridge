@@ -3,6 +3,11 @@
 
 First, we will review the bridge components then describe their integration and the whole process that is going to happen in order to transfer a token in this network.
 
+### How to run
+* ``` git clone https://github.com/rukmani887799/Ergo-Bridge.git ```
+* ``` cd Ergo-Bridge```
+* ``` yarn install ```
+* ``` yarn start ```
 ## Tokens
 
 - Payment token: A token that will be transferred on the network.
